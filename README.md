@@ -14,7 +14,7 @@ A lightweight browser extension that enhances your workflow by replacing gene ID
 2. Install it in your browser.
 
 ### Manual Installation
-1. Download the ZIP file from the [releases page](#zip).
+1. Download the ZIP file.
 2. Go to `about:debugging#/runtime/this-firefox` in Firefox.
 3. Click **Load Temporary Add-on** and select the `manifest.json` file.
 
