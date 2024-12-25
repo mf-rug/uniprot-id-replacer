@@ -10,11 +10,11 @@ A lightweight browser extension that enhances your workflow by replacing gene ID
 
 ## Installation
 ### For Firefox
-1. Download the extension from the [Firefox Add-ons Store](https://addons.mozilla.org/).
+1. Download the extension from the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/uniprot-id-replacer/).
 2. Install it in your browser.
 
 ### Manual Installation
-1. Download the ZIP file from the [releases page](#).
+1. Download the ZIP file from the [releases page](#zip).
 2. Go to `about:debugging#/runtime/this-firefox` in Firefox.
 3. Click **Load Temporary Add-on** and select the `manifest.json` file.
 
